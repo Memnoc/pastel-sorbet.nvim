@@ -8,7 +8,7 @@ A soft, pastel Neovim colorscheme with rich purples and vibrant accents.
 
 ```lua
 {
-  "yourusername/pastel_sorbet.nvim",
+  "Memnoc/pastel_sorbet.nvim",
   lazy = false,
   priority = 1000,
   config = function()
@@ -21,7 +21,7 @@ A soft, pastel Neovim colorscheme with rich purples and vibrant accents.
 
 ```lua
 use {
-  "yourusername/pastel_sorbet.nvim",
+  "Memnoc/pastel_sorbet.nvim",
   config = function()
     vim.cmd.colorscheme("pastel_sorbet")
   end,

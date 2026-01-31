@@ -12,7 +12,12 @@
   <img src="https://via.placeholder.com/800x450/1c1826/e8e4f2?text=Pastel+Sorbet+Terminal+Preview" alt="Pastel Sorbet Terminal Preview" width="800">
 </p>
 
- *"A soft, pastel experience with rich purples and vibrant accents."*
+ *A soft, pastel experience with rich purples and vibrant accents.*
+
+ Available in your favourite terminal:
+ - [Kitty](https://github.com/Memnoc/pastel-sorbet-kitty)
+ - [Ghostty](https://github.com/Memnoc/pastel-sorbet-ghostty)
+ - [Alacritty](https://github.com/Memnoc/pastel-sorbet-alacritty)
 
 </div>
 

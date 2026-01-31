@@ -14,10 +14,7 @@
 
  *A soft, pastel experience with rich purples and vibrant accents.*
 
- Available in your favourite terminal:
- - [Kitty](https://github.com/Memnoc/pastel-sorbet-kitty)
- - [Ghostty](https://github.com/Memnoc/pastel-sorbet-ghostty)
- - [Alacritty](https://github.com/Memnoc/pastel-sorbet-alacritty)
+ Available in your favourite terminal: [Kitty](https://github.com/Memnoc/pastel-sorbet-kitty)|[Ghostty](https://github.com/Memnoc/pastel-sorbet-ghostty)|[Alacritty](https://github.com/Memnoc/pastel-sorbet-alacritty)
 
 </div>
 
